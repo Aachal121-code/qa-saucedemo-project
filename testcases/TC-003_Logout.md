@@ -1,8 +1,8 @@
 # TC-003 - Logout from app
 
 **ID:** TC-003     
-**Title:** Logout after successful login
-**Precondition:** TC-001 passed and user is on inventory page     
+**Title:** Logout after successful login      
+**Precondition:** TC-001 passed and user is on inventory page       
 **Steps:**
 1. Click on the menu button (top-left)  
 2. Click `Logout`  
