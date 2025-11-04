@@ -9,8 +9,8 @@
 - Inventory page load and products and filter option visible
 
 **Steps:**  
-1. Nevigate to the inventory page 
-2. Nevigate to the `Filter` dropdown option (top right)
+1. Navigate to the inventory page 
+2. Navigate to the `Filter` dropdown option (top right)
 3. Hover over the filter icon (funnel symbol)  
     - Observe that the cursor changes to the `Hand Pointer` (indicating clickability)  
 4. Click on the filter icon  
