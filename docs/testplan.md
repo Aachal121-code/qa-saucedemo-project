@@ -1,7 +1,12 @@
 # Test Plan - Saucedemo Web Application 
 
 Objective:
-Test core flows : Login/Logout, Product Listing, Add to Cart, Payment, checkout.
+Test core flows : 
+- Login/Logout
+- Product Listing
+- Add to Cart
+- Payment
+- checkout
 
 Scope:
 - Functional Manual testing of Login/logout.
@@ -11,6 +16,6 @@ Entry Criteria:
 - App accessible: https://www.saucedemo.com
 
 Exit Criteria:
-- All test cases executed Login/Logout.
+- All test cases executed Login/Logout to checkout.
 
 
