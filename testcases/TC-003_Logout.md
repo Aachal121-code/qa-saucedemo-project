@@ -7,7 +7,7 @@
 1. Click on the menu button (top-left)  
 2. Click `Logout`  
 
-**Expected Result:** User is redirected to the login page ans session is ended    
+**Expected Result:** User is redirected to the login page and session is ended    
 **Actual Result:** User is redirected to login page and session is ended     
 **Status:** Pass         
 **Evidence:** evidence/screenshots/TC-003-pass.png       
